@@ -1,6 +1,6 @@
 # Studash
 
-Studash is a CRM system for students that they can use to organize their courses and assignments. It is developed using TypeScript, React, trpc, Prisma, and Next.js. It uses Google OAuth for user authentication.
+Studash is a CMS  for students that they can use to organize their courses and assignments. It is developed using TypeScript, React, trpc, Prisma, and Next.js. It uses Google OAuth for user authentication.
 
 ## Installation
 
